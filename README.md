@@ -35,7 +35,7 @@ called “NotValidAutosarFileException”.
 
 - **batch_file.sh**: This is a `bash script` that does the same job, but in `Linux`.
   
-## Brief
+## Brief explanation of the code:
 
 - The program first checks whether an input file name is provided as a command-line argument. If not, it prints a usage message and exits.
 
