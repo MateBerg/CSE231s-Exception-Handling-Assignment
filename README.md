@@ -38,7 +38,7 @@ called “NotValidAutosarFileException”.
 
 - **batch_file.bat**: This is a `batch file` that runs your program with different input files for testing purposes.
 
-- **batch_file.sh**: This is a `bash script` that does the same job, but in `Linux`.
+- **batch_file.sh**: This is a `bash script` that does the same job, but in `Linux Kernel`.
   
 ## Brief explanation of the code:
 
@@ -77,3 +77,6 @@ To run your program with all the test files provided, use the following command:
 `batch_file.bat`
 
 This will run your program with each of the test files and show the output on the console.
+  
+Or you can use in Linux Kernel:       
+`batch_file.sh`  
