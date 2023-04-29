@@ -66,7 +66,7 @@ called “NotValidAutosarFileException”.
 
 To run your program with a single input file, use the following command:
 
-`java main.java <your_file>`
+`java main.java <input_file>`
 
 where `<your_file>` is the name of the ARXML file you want to process. For example:
 
