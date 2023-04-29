@@ -9,7 +9,7 @@ The program should write the reordered containers to a new ARXML file.
 
 `Autosar` stands for AUTomotive Open System ARchitecture
 
-Output from linux arch terminal:  
+**Output from linux arch terminal: **  
 
 ![image](https://user-images.githubusercontent.com/69548206/235323576-6c8405e0-6f9e-41ee-9bd1-88ef2ccc493a.png)
 
