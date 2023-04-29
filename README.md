@@ -10,6 +10,7 @@ The program should write the reordered containers to a new ARXML file.
 `Autosar` stands for AUTomotive Open System ARchitecture
 
 Output from linux arch terminal:  
+
 ![image](https://user-images.githubusercontent.com/69548206/235323576-6c8405e0-6f9e-41ee-9bd1-88ef2ccc493a.png)
 
 
@@ -80,4 +81,4 @@ To run your program with all the test files provided, use the following command:
 This will run your program with each of the test files and show the output on the console.
   
 Or you can use in Linux Kernel:       
-`batch_file.sh`  
+`./batch_file.sh`  
