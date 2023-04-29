@@ -66,9 +66,9 @@ public class main {
             System.out.println("Process is successed, new output is " + outputName);
         } catch (NotVaildAutosarFileException e) {
             System.err.println("Error: " + e.getMessage());
-        }  catch (SAXException | IOException e) {
+        } catch (SAXException | IOException e) {
         	System.err.println("Error: Input file is EMPTY ! " );
-        }catch (EmptyAutosarFileException e) {
+        } catch (EmptyAutosarFileException e) {
             System.err.println("Error: " + e.getMessage());
         } catch (Exception e) {
             e.printStackTrace();
